@@ -3,8 +3,10 @@
 This project presents an interactive **Power BI dashboard** that analyzes India’s e-book market using historical book sales and reader engagement data.  
 The dashboard highlights readership trends, market growth, and **future market size projections for 2026 and 2030**.
 ---
-## 🎥 Dashboard Demo Video
+## 📸 Dashboard Screenshot
+![E-Book Market Dashboard](dashboard_overview.png)
 
+## 🎥 Dashboard Demo Video
 [▶️ Watch Dashboard Walkthrough](https://drive.google.com/file/d/1RocGAWFQA7jbmRVsEVoC0xoEUD8YYTnn/view?usp=sharing)
 
 ## 🎯 Project Objectives
